@@ -196,6 +196,7 @@
     {"name":"spr_z_tetrimino","order":7,"path":"sprites/spr_z_tetrimino/spr_z_tetrimino.yy",},
     {"name":"Sprite138","order":1,"path":"sprites/Sprite138/Sprite138.yy",},
     {"name":"Sprite139","order":2,"path":"sprites/Sprite139/Sprite139.yy",},
+    {"name":"Sprite149","order":17,"path":"sprites/Sprite149/Sprite149.yy",},
     {"name":"Stat_Numbers","order":15,"path":"sprites/Stat_Numbers/Stat_Numbers.yy",},
     {"name":"Statistics","order":14,"path":"sprites/Statistics/Statistics.yy",},
     {"name":"Title_Screen_Text","order":9,"path":"sprites/Title_Screen_Text/Title_Screen_Text.yy",},

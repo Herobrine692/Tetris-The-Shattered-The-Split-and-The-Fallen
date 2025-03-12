@@ -232,6 +232,7 @@
     {"id":{"name":"spr_z_tetrimino","path":"sprites/spr_z_tetrimino/spr_z_tetrimino.yy",},},
     {"id":{"name":"Sprite138","path":"sprites/Sprite138/Sprite138.yy",},},
     {"id":{"name":"Sprite139","path":"sprites/Sprite139/Sprite139.yy",},},
+    {"id":{"name":"Sprite149","path":"sprites/Sprite149/Sprite149.yy",},},
     {"id":{"name":"Stat_Numbers","path":"sprites/Stat_Numbers/Stat_Numbers.yy",},},
     {"id":{"name":"Statistics","path":"sprites/Statistics/Statistics.yy",},},
     {"id":{"name":"Title_Screen_Text","path":"sprites/Title_Screen_Text/Title_Screen_Text.yy",},},
@@ -239,8 +240,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
