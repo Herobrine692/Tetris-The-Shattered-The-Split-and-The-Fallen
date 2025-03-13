@@ -52,6 +52,9 @@
   "ResourceOrderSettings":[
     {"name":"obj_bottom_left_corner","order":2,"path":"objects/obj_bottom_left_corner/obj_bottom_left_corner.yy",},
     {"name":"obj_bottom_right_corner","order":3,"path":"objects/obj_bottom_right_corner/obj_bottom_right_corner.yy",},
+    {"name":"obj_fade_in","order":3,"path":"objects/obj_fade_in/obj_fade_in.yy",},
+    {"name":"obj_fade_out","order":2,"path":"objects/obj_fade_out/obj_fade_out.yy",},
+    {"name":"obj_flashbang","order":1,"path":"objects/obj_flashbang/obj_flashbang.yy",},
     {"name":"obj_j_tetrimino","order":1,"path":"objects/obj_j_tetrimino/obj_j_tetrimino.yy",},
     {"name":"obj_l_tetrimino","order":2,"path":"objects/obj_l_tetrimino/obj_l_tetrimino.yy",},
     {"name":"obj_left_edge","order":1,"path":"objects/obj_left_edge/obj_left_edge.yy",},
@@ -197,6 +200,8 @@
     {"name":"Sprite138","order":1,"path":"sprites/Sprite138/Sprite138.yy",},
     {"name":"Sprite139","order":2,"path":"sprites/Sprite139/Sprite139.yy",},
     {"name":"Sprite149","order":17,"path":"sprites/Sprite149/Sprite149.yy",},
+    {"name":"Sprite150_1","order":19,"path":"sprites/Sprite150_1/Sprite150_1.yy",},
+    {"name":"Sprite150","order":18,"path":"sprites/Sprite150/Sprite150.yy",},
     {"name":"Stat_Numbers","order":15,"path":"sprites/Stat_Numbers/Stat_Numbers.yy",},
     {"name":"Statistics","order":14,"path":"sprites/Statistics/Statistics.yy",},
     {"name":"Title_Screen_Text","order":9,"path":"sprites/Title_Screen_Text/Title_Screen_Text.yy",},
