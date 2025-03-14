@@ -8,8 +8,8 @@
   "name":"obj_flashbang",
   "overriddenProperties":[],
   "parent":{
-    "name":"Room Operators",
-    "path":"folders/Objects/Room Operators.yy",
+    "name":"Title Room",
+    "path":"folders/Objects/Rooms/Title Room.yy",
   },
   "parentObjectId":null,
   "persistent":false,
