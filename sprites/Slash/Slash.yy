@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"Slash",
   "bboxMode":0,
-  "bbox_bottom":92,
+  "bbox_bottom":371,
   "bbox_left":0,
-  "bbox_right":15,
+  "bbox_right":63,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -29,7 +29,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":93,
+  "height":372,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"aea1dbdd-f190-4577-9990-c266a15d31ce","blendMode":0,"displayName":"default","isLocked":false,"name":"aea1dbdd-f190-4577-9990-c266a15d31ce","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -138,5 +138,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":16,
+  "width":64,
 }

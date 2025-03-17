@@ -92,6 +92,7 @@
     {"id":{"name":"obj_top_left_corner","path":"objects/obj_top_left_corner/obj_top_left_corner.yy",},},
     {"id":{"name":"obj_top_right_corner","path":"objects/obj_top_right_corner/obj_top_right_corner.yy",},},
     {"id":{"name":"obj_z_tetrimino","path":"objects/obj_z_tetrimino/obj_z_tetrimino.yy",},},
+    {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"rm_title_screen","path":"rooms/rm_title_screen/rm_title_screen.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Freshness_Meter","path":"sprites/Freshness_Meter/Freshness_Meter.yy",},},
@@ -243,6 +244,9 @@
     {"id":{"name":"Sprite150","path":"sprites/Sprite150/Sprite150.yy",},},
     {"id":{"name":"Sprite152","path":"sprites/Sprite152/Sprite152.yy",},},
     {"id":{"name":"Sprite153","path":"sprites/Sprite153/Sprite153.yy",},},
+    {"id":{"name":"Sprite154","path":"sprites/Sprite154/Sprite154.yy",},},
+    {"id":{"name":"Sprite155","path":"sprites/Sprite155/Sprite155.yy",},},
+    {"id":{"name":"Sprite156","path":"sprites/Sprite156/Sprite156.yy",},},
     {"id":{"name":"Stat_Numbers","path":"sprites/Stat_Numbers/Stat_Numbers.yy",},},
     {"id":{"name":"Statistics","path":"sprites/Statistics/Statistics.yy",},},
   ],
@@ -251,6 +255,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_title_screen","path":"rooms/rm_title_screen/rm_title_screen.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
