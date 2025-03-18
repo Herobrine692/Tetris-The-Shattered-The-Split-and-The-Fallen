@@ -23,7 +23,7 @@
   ],
   "name":"Sprite160_1",
   "nineSlice":null,
-  "origin":0,
+  "origin":6,
   "parent":{
     "name":"Letters",
     "path":"folders/Rooms/Letters.yy",
@@ -76,7 +76,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":0,
-    "yorigin":0,
+    "yorigin":80,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
