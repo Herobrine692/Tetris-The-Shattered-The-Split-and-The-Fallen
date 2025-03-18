@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":6,
   "parent":{
-    "name":"Letters",
-    "path":"folders/Rooms/Letters.yy",
+    "name":"Fallen",
+    "path":"folders/Sprites/Rooms/Title Room/Letters/Fallen.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

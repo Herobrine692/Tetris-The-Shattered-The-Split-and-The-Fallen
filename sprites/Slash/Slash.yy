@@ -38,8 +38,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Title Room",
+    "path":"folders/Sprites/Rooms/Title Room.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

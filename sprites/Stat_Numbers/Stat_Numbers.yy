@@ -34,8 +34,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Game Room",
+    "path":"folders/Sprites/Rooms/Game Room.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

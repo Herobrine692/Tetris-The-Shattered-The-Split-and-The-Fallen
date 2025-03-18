@@ -20,14 +20,14 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"13debc16-0753-48f6-87b2-6645b32d3527","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"13debc16-0753-48f6-87b2-6645b32d3527","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"9d619bd4-b67f-417d-9011-a45eb6bc007e","blendMode":0,"displayName":"default","isLocked":false,"name":"9d619bd4-b67f-417d-9011-a45eb6bc007e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"9d619bd4-b67f-417d-9011-a45eb6bc007e","blendMode":0,"displayName":"default","isLocked":false,"name":"9d619bd4-b67f-417d-9011-a45eb6bc007e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
   ],
   "name":"Sprite155",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Title Room",
+    "path":"folders/Sprites/Rooms/Title Room.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
