@@ -245,6 +245,7 @@
     {"name":"Sprite160_3","order":3,"path":"sprites/Sprite160_3/Sprite160_3.yy",},
     {"name":"Sprite160_4","order":4,"path":"sprites/Sprite160_4/Sprite160_4.yy",},
     {"name":"Sprite160_5","order":5,"path":"sprites/Sprite160_5/Sprite160_5.yy",},
+    {"name":"Sprite169","order":9,"path":"sprites/Sprite169/Sprite169.yy",},
     {"name":"Stat_Numbers","order":6,"path":"sprites/Stat_Numbers/Stat_Numbers.yy",},
     {"name":"Statistics","order":7,"path":"sprites/Statistics/Statistics.yy",},
   ],
