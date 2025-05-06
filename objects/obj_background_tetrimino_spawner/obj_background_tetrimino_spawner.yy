@@ -1,15 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tetrimino_spawner",
+  "%Name":"obj_background_tetrimino_spawner",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_tetrimino_spawner",
+  "name":"obj_background_tetrimino_spawner",
   "overriddenProperties":[],
   "parent":{
-    "name":"Standard",
-    "path":"folders/Objects/Tetriminos/Blcoks/Standard.yy",
+    "name":"Title Room",
+    "path":"folders/Objects/Rooms/Title Room.yy",
   },
   "parentObjectId":null,
   "persistent":false,

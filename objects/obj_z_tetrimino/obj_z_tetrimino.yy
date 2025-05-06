@@ -9,10 +9,7 @@
     "name":"Standard",
     "path":"folders/Objects/Tetriminos/Blcoks/Standard.yy",
   },
-  "parentObjectId":{
-    "name":"obj_i_tetrimino",
-    "path":"objects/obj_i_tetrimino/obj_i_tetrimino.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
