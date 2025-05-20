@@ -96,6 +96,7 @@
     {"name":"obj_t_mino","order":5,"path":"objects/obj_t_mino/obj_t_mino.yy",},
     {"name":"obj_t_tetrimino","order":5,"path":"objects/obj_t_tetrimino/obj_t_tetrimino.yy",},
     {"name":"obj_tetrimino_spawner","order":7,"path":"objects/obj_tetrimino_spawner/obj_tetrimino_spawner.yy",},
+    {"name":"obj_tetrimino_step_manager","order":8,"path":"objects/obj_tetrimino_step_manager/obj_tetrimino_step_manager.yy",},
     {"name":"obj_title_fade_out","order":4,"path":"objects/obj_title_fade_out/obj_title_fade_out.yy",},
     {"name":"obj_title_operator","order":6,"path":"objects/obj_title_operator/obj_title_operator.yy",},
     {"name":"obj_top_edge","order":3,"path":"objects/obj_top_edge/obj_top_edge.yy",},

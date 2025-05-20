@@ -122,6 +122,7 @@
     {"id":{"name":"obj_t_mino","path":"objects/obj_t_mino/obj_t_mino.yy",},},
     {"id":{"name":"obj_t_tetrimino","path":"objects/obj_t_tetrimino/obj_t_tetrimino.yy",},},
     {"id":{"name":"obj_tetrimino_spawner","path":"objects/obj_tetrimino_spawner/obj_tetrimino_spawner.yy",},},
+    {"id":{"name":"obj_tetrimino_step_manager","path":"objects/obj_tetrimino_step_manager/obj_tetrimino_step_manager.yy",},},
     {"id":{"name":"obj_title_fade_out","path":"objects/obj_title_fade_out/obj_title_fade_out.yy",},},
     {"id":{"name":"obj_title_operator","path":"objects/obj_title_operator/obj_title_operator.yy",},},
     {"id":{"name":"obj_top_edge","path":"objects/obj_top_edge/obj_top_edge.yy",},},
