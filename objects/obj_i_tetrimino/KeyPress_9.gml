@@ -1,27 +1,47 @@
-if(hold = false){
-	instance_create_layer(x, y, "Tetriminos", obj_tetrimino_spawner)
+if(global.hold = false){
+	if(global.next == 1){
+		
+	}
+	if(global.next == 1){
+		
+	}
+	if(global.next == 1){
+		
+	}
+	if(global.next == 1){
+		
+	}
+	if(global.next == 1){
+		
+	}
+	if(global.next == 1){
+		
+	}
+	if(global.next == 1){
+		
+	}
 }else{
-	if(hold_mino == 1){
+	if(global.hold_mino == 1){
 		instance_create_layer(x, y, "Tetriminos", obj_i_tetrimino)
 	}
-	if(hold_mino == 2){
+	if(global.hold_mino == 2){
 		instance_create_layer(x-8, y, "Tetriminos", obj_j_tetrimino)
 	}
-	if(hold_mino == 3){
+	if(global.hold_mino == 3){
 		instance_create_layer(x-8, y, "Tetriminos", obj_l_tetrimino)
 	}
-	if(hold_mino == 4){
+	if(global.hold_mino == 4){
 		instance_create_layer(x, y, "Tetriminos", obj_o_tetrimino)
 	}
-	if(hold_mino == 5){
+	if(global.hold_mino == 5){
 		instance_create_layer(x-8, y, "Tetriminos", obj_s_tetrimino)
 	}
-	if(hold_mino == 6){
+	if(global.hold_mino == 6){
 		instance_create_layer(x-8, y, "Tetriminos", obj_t_tetrimino)
 	}
-	if(hold_mino == 7){
+	if(global.hold_mino == 7){
 		instance_create_layer(x-8, y, "Tetriminos", obj_z_tetrimino)
 	}
 }
-hold_mino = 1
+global.hold_mino = 1
 instance_destroy()

@@ -171,6 +171,7 @@
     {"name":"spr_l_tetrimino_phantom","order":2,"path":"sprites/spr_l_tetrimino_phantom/spr_l_tetrimino_phantom.yy",},
     {"name":"spr_l_tetrimino","order":3,"path":"sprites/spr_l_tetrimino/spr_l_tetrimino.yy",},
     {"name":"spr_left_edge","order":1,"path":"sprites/spr_left_edge/spr_left_edge.yy",},
+    {"name":"spr_next","order":10,"path":"sprites/spr_next/spr_next.yy",},
     {"name":"spr_o_mino_cracking_anim","order":6,"path":"sprites/spr_o_mino_cracking_anim/spr_o_mino_cracking_anim.yy",},
     {"name":"spr_o_mino_particle_02","order":1,"path":"sprites/spr_o_mino_particle_02/spr_o_mino_particle_02.yy",},
     {"name":"spr_o_mino_particle_03","order":2,"path":"sprites/spr_o_mino_particle_03/spr_o_mino_particle_03.yy",},

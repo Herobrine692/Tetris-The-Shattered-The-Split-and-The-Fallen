@@ -1,1 +1,1 @@
-image_index = hold_mino
+image_index = global.hold_mino
