@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"obj_j_tetrimino",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":9,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_j_tetrimino",
   "overriddenProperties":[],
@@ -9,7 +12,10 @@
     "name":"Standard",
     "path":"folders/Objects/Tetriminos/Blcoks/Standard.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_tetrimino_step_manager",
+    "path":"objects/obj_tetrimino_step_manager/obj_tetrimino_step_manager.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

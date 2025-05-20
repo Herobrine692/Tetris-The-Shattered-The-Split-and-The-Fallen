@@ -23,5 +23,5 @@ if(hold = false){
 		instance_create_layer(x-8, y, "Tetriminos", obj_z_tetrimino)
 	}
 }
-hold_mino = 1
+hold_mino = 4
 instance_destroy()
