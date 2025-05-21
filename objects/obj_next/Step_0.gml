@@ -1,1 +1,1 @@
-image_index = global.next
+image_index = global.next-1

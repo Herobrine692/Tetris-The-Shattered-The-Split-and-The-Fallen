@@ -102,6 +102,7 @@
     {"id":{"name":"obj_hold","path":"objects/obj_hold/obj_hold.yy",},},
     {"id":{"name":"obj_i_mino","path":"objects/obj_i_mino/obj_i_mino.yy",},},
     {"id":{"name":"obj_i_tetrimino","path":"objects/obj_i_tetrimino/obj_i_tetrimino.yy",},},
+    {"id":{"name":"obj_info","path":"objects/obj_info/obj_info.yy",},},
     {"id":{"name":"obj_j_mino","path":"objects/obj_j_mino/obj_j_mino.yy",},},
     {"id":{"name":"obj_j_tetrimino","path":"objects/obj_j_tetrimino/obj_j_tetrimino.yy",},},
     {"id":{"name":"obj_l_mino","path":"objects/obj_l_mino/obj_l_mino.yy",},},

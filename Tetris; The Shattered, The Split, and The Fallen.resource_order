@@ -75,6 +75,7 @@
     {"name":"obj_falling_tetrimino","order":5,"path":"objects/obj_falling_tetrimino/obj_falling_tetrimino.yy",},
     {"name":"obj_flashbang","order":1,"path":"objects/obj_flashbang/obj_flashbang.yy",},
     {"name":"obj_hold","order":2,"path":"objects/obj_hold/obj_hold.yy",},
+    {"name":"obj_info","order":5,"path":"objects/obj_info/obj_info.yy",},
     {"name":"obj_j_mino","order":1,"path":"objects/obj_j_mino/obj_j_mino.yy",},
     {"name":"obj_j_tetrimino","order":1,"path":"objects/obj_j_tetrimino/obj_j_tetrimino.yy",},
     {"name":"obj_l_mino","order":2,"path":"objects/obj_l_mino/obj_l_mino.yy",},
