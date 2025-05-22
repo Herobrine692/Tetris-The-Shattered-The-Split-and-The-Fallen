@@ -1,4 +1,4 @@
-if(global.hold = false){
+if(global.hold == false){
 	if(global.next == 1){
 		instance_create_layer(x, y, "Tetriminos", obj_i_tetrimino)
 	}
