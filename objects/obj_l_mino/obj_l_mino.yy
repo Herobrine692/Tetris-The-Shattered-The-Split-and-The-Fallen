@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_l_mino",
+    "path":"sprites/spr_l_mino/spr_l_mino.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
