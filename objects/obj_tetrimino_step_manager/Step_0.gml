@@ -20,7 +20,6 @@ if(sonic == true){
 	}
 	if(!place_meeting(x, y+16, [obj_bottom_edge, obj_i_mino, obj_j_mino, obj_l_mino, obj_o_mino, obj_s_mino, obj_t_mino, obj_z_mino])){
 		move_snap(x, y+16)
-		instance_destroy()
 	}
 }
 
@@ -40,6 +39,7 @@ if(!place_meeting(x, y+16, [obj_bottom_edge, obj_i_mino, obj_j_mino, obj_l_mino,
 }
 if(alarm_get(1) == 0){
 	instance_destroy()
+	instance_create_layer(x, y, "Tetriminos", obj_tetrimino_spawner)
 }
 if(place_meeting(x, y+16, [obj_bottom_edge, obj_i_mino, obj_j_mino, obj_l_mino, obj_o_mino, obj_s_mino, obj_t_mino, obj_z_mino]) and alarm1 = false){
 		if(alarm_get(1) != 0){
