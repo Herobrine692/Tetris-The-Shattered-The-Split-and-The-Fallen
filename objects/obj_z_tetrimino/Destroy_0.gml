@@ -1,19 +1,19 @@
-if(image_index == 1){
+if(image_index == 0){
 	instance_create_layer(x-8, y-8, "Tetriminos", obj_z_mino)
 	instance_create_layer(x, y-8, "Tetriminos", obj_z_mino)
 	instance_create_layer(x+8, y, "Tetriminos", obj_z_mino)
 }
-if(image_index == 2){
+if(image_index == 1){
 	instance_create_layer(x+8, y-8, "Tetriminos", obj_z_mino)
 	instance_create_layer(x+8, y, "Tetriminos", obj_z_mino)
 	instance_create_layer(x, y+8, "Tetriminos", obj_z_mino)
 }
-if(image_index == 3){
+if(image_index == 2){
 	instance_create_layer(x-8, y, "Tetriminos", obj_z_mino)
 	instance_create_layer(x, y+8, "Tetriminos", obj_z_mino)
 	instance_create_layer(x+8, y+8, "Tetriminos", obj_z_mino)
 }
-if(image_index == 4){
+if(image_index == 3){
 	instance_create_layer(x, y+8, "Tetriminos", obj_z_mino)
 	instance_create_layer(x-8, y, "Tetriminos", obj_z_mino)
 	instance_create_layer(x-8, y+8, "Tetriminos", obj_z_mino)
