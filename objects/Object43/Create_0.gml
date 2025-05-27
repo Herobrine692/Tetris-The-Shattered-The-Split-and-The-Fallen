@@ -1,1 +1,1 @@
-alarm_set(0, 200)
+alarm_set(0, 510)

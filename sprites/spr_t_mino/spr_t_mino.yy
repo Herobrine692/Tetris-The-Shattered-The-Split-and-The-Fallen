@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Standard",
-    "path":"folders/Sprites/Tetriminos/Minos/Blocks/Standard.yy",
+    "path":"folders/Sprites/Tetriminos/Minos/Standard.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
