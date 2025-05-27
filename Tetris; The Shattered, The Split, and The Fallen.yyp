@@ -81,6 +81,7 @@
     {"id":{"name":"obj_fade_in","path":"objects/obj_fade_in/obj_fade_in.yy",},},
     {"id":{"name":"obj_falling_tetrimino","path":"objects/obj_falling_tetrimino/obj_falling_tetrimino.yy",},},
     {"id":{"name":"obj_flashbang","path":"objects/obj_flashbang/obj_flashbang.yy",},},
+    {"id":{"name":"obj_gamemaker_logo","path":"objects/obj_gamemaker_logo/obj_gamemaker_logo.yy",},},
     {"id":{"name":"obj_globalvar_creator","path":"objects/obj_globalvar_creator/obj_globalvar_creator.yy",},},
     {"id":{"name":"obj_hold","path":"objects/obj_hold/obj_hold.yy",},},
     {"id":{"name":"obj_i_mino","path":"objects/obj_i_mino/obj_i_mino.yy",},},

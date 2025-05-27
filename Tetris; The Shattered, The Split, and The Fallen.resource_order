@@ -58,6 +58,7 @@
     {"name":"obj_e","order":4,"path":"objects/obj_e/obj_e.yy",},
     {"name":"obj_falling_tetrimino","order":5,"path":"objects/obj_falling_tetrimino/obj_falling_tetrimino.yy",},
     {"name":"obj_flashbang","order":1,"path":"objects/obj_flashbang/obj_flashbang.yy",},
+    {"name":"obj_gamemaker_logo","order":2,"path":"objects/obj_gamemaker_logo/obj_gamemaker_logo.yy",},
     {"name":"obj_hold","order":2,"path":"objects/obj_hold/obj_hold.yy",},
     {"name":"obj_info","order":5,"path":"objects/obj_info/obj_info.yy",},
     {"name":"obj_j_mino","order":1,"path":"objects/obj_j_mino/obj_j_mino.yy",},
