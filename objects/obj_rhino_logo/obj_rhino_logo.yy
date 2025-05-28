@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
   "%Name":"obj_rhino_logo",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_rhino_logo",
   "overriddenProperties":[],
   "parent":{
-    "name":"Intro Room",
-    "path":"folders/Objects/Rooms/Intro Room.yy",
+    "name":"Logos",
+    "path":"folders/Objects/Rooms/Intro Room/Logos.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_logo_alpha_manager",
+    "path":"objects/obj_logo_alpha_manager/obj_logo_alpha_manager.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
