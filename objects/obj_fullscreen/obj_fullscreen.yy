@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Object44",
+  "%Name":"obj_fullscreen",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object44",
+  "name":"obj_fullscreen",
   "overriddenProperties":[],
   "parent":{
-    "name":"Intro Room",
-    "path":"folders/Objects/Rooms/Intro Room.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sprite150_1",
-    "path":"sprites/Sprite150_1/Sprite150_1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
