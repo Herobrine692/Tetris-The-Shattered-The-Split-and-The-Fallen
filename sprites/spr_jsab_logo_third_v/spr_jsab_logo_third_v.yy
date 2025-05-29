@@ -23,7 +23,7 @@
   ],
   "name":"spr_jsab_logo_third_v",
   "nineSlice":null,
-  "origin":0,
+  "origin":4,
   "parent":{
     "name":"JSAB Logo Sizes",
     "path":"folders/Sprites/Rooms/Intro Room/Logos/JSAB Logo Sizes.yy",
@@ -50,7 +50,7 @@
     "eventStubScript":null,
     "eventToFunction":{},
     "length":1.0,
-    "lockOrigin":false,
+    "lockOrigin":true,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
       "Keyframes":[],
@@ -77,8 +77,8 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":605,
+    "yorigin":221,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

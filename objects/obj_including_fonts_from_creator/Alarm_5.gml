@@ -1,0 +1,1 @@
+instance_create_layer(1200, 755, "Text_And_Logos", obj_dnd_logo)

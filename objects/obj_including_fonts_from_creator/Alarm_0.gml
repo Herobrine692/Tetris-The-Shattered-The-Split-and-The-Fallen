@@ -1,1 +1,1 @@
-instance_create_layer()
+instance_create_layer(320, 375, "Text_And_Logos", obj_minecraft_logo_fourth_h)

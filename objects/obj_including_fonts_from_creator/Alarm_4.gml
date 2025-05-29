@@ -1,0 +1,1 @@
+instance_create_layer(720, 755, "Text_And_Logos", obj_metroid_logo_fourth_h)

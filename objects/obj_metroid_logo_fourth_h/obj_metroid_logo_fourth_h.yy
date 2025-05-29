@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_minecraft_logo",
+  "%Name":"obj_metroid_logo_fourth_h",
   "eventList":[],
   "managed":true,
-  "name":"obj_minecraft_logo",
+  "name":"obj_metroid_logo_fourth_h",
   "overriddenProperties":[],
   "parent":{
     "name":"Logos",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_minecraft_logo",
-    "path":"sprites/spr_minecraft_logo/spr_minecraft_logo.yy",
+    "name":"spr_metroid_logo_fourth_h",
+    "path":"sprites/spr_metroid_logo_fourth_h/spr_metroid_logo_fourth_h.yy",
   },
   "spriteMaskId":null,
   "visible":true,

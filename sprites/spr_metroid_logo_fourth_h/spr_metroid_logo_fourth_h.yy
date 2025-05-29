@@ -23,7 +23,7 @@
   ],
   "name":"spr_metroid_logo_fourth_h",
   "nineSlice":null,
-  "origin":0,
+  "origin":4,
   "parent":{
     "name":"Logos",
     "path":"folders/Sprites/Rooms/Intro Room/Logos.yy",
@@ -50,7 +50,7 @@
     "eventStubScript":null,
     "eventToFunction":{},
     "length":1.0,
-    "lockOrigin":false,
+    "lockOrigin":true,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
       "Keyframes":[],
@@ -77,8 +77,8 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":240,
+    "yorigin":135,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

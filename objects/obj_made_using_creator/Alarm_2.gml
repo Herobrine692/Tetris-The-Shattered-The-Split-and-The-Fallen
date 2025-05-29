@@ -1,5 +1,2 @@
-instance_create_layer(0, 0, "Fades", obj_fade_in)
-instance_destroy(obj_made_using)
-instance_destroy(obj_gamemaker_logo)
-instance_destroy()
+instance_destroy(all)
 instance_create_layer(0, 0, "Text_And_Logos", obj_with_help_from_creator)

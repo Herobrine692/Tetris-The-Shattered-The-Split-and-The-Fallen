@@ -1,0 +1,1 @@
+instance_create_layer(240, 755, "Text_And_Logos", obj_zelda_logo)

@@ -1,5 +1,2 @@
-instance_destroy(obj_with_help_from)
-instance_destroy(obj_rhino_logo)
-instance_destroy()
-instance_create_layer(0, 0, "Fades", obj_fade_in)
+instance_destroy(all)
 instance_create_layer(0, 0, "Text_And_Logos", obj_including_fonts_from_creator)

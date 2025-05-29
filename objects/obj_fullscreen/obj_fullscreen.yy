@@ -8,8 +8,8 @@
   "name":"obj_fullscreen",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Warning Room",
+    "path":"folders/Objects/Rooms/Warning Room.yy",
   },
   "parentObjectId":null,
   "persistent":false,
