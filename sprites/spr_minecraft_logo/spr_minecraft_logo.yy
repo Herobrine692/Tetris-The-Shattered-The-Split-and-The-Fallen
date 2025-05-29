@@ -12,18 +12,18 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"77ad838d-4d80-4cf7-bdfc-268de52d38a3","name":"77ad838d-4d80-4cf7-bdfc-268de52d38a3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"e0cef562-f01f-4a98-87bb-ce09bc7a7cea","name":"e0cef562-f01f-4a98-87bb-ce09bc7a7cea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":329,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"57f8b562-4b9e-49e7-9d75-4a85e3ab16b0","blendMode":0,"displayName":"default","isLocked":false,"name":"57f8b562-4b9e-49e7-9d75-4a85e3ab16b0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"0acb20c8-2757-4015-bb3a-5031c8e16416","blendMode":0,"displayName":"default","isLocked":false,"name":"0acb20c8-2757-4015-bb3a-5031c8e16416","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_minecraft_logo",
   "nineSlice":null,
-  "origin":4,
+  "origin":9,
   "parent":{
     "name":"Logos",
     "path":"folders/Sprites/Rooms/Intro Room/Logos.yy",
@@ -71,14 +71,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"77ad838d-4d80-4cf7-bdfc-268de52d38a3","path":"sprites/spr_minecraft_logo/spr_minecraft_logo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"abc5dbf6-9eb2-4d2a-9fbe-f36e25262afb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e0cef562-f01f-4a98-87bb-ce09bc7a7cea","path":"sprites/spr_minecraft_logo/spr_minecraft_logo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"15e6f77c-8d20-4c47-81e5-86aaebd72bdb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":960,
-    "yorigin":164,
+    "xorigin":1600,
+    "yorigin":193,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

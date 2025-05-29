@@ -23,7 +23,7 @@
   ],
   "name":"spr_including_fonts_from",
   "nineSlice":null,
-  "origin":0,
+  "origin":4,
   "parent":{
     "name":"Text",
     "path":"folders/Sprites/Rooms/Intro Room/Text.yy",
@@ -50,7 +50,7 @@
     "eventStubScript":null,
     "eventToFunction":{},
     "length":1.0,
-    "lockOrigin":false,
+    "lockOrigin":true,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
       "Keyframes":[],
@@ -77,8 +77,8 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":832,
+    "yorigin":64,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
