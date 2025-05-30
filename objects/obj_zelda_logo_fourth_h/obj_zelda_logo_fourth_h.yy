@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tunic_logo",
+  "%Name":"obj_zelda_logo_fourth_h",
   "eventList":[],
   "managed":true,
-  "name":"obj_tunic_logo",
+  "name":"obj_zelda_logo_fourth_h",
   "overriddenProperties":[],
   "parent":{
     "name":"Logos",
     "path":"folders/Objects/Rooms/Intro Room/Logos.yy",
   },
   "parentObjectId":{
-    "name":"obj_logo_alpha_manager",
-    "path":"objects/obj_logo_alpha_manager/obj_logo_alpha_manager.yy",
+    "name":"obj_alpha_manager",
+    "path":"objects/obj_alpha_manager/obj_alpha_manager.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_tunic_logo",
-    "path":"sprites/spr_tunic_logo/spr_tunic_logo.yy",
+    "name":"spr_zelda_logo_fourth_h",
+    "path":"sprites/spr_zelda_logo_fourth_h/spr_zelda_logo_fourth_h.yy",
   },
   "spriteMaskId":null,
   "visible":true,

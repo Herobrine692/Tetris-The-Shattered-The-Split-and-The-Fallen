@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_logo_alpha_manager",
+  "%Name":"obj_start_spawner",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_logo_alpha_manager",
+  "name":"obj_start_spawner",
   "overriddenProperties":[],
   "parent":{
-    "name":"Logos",
-    "path":"folders/Objects/Rooms/Intro Room/Logos.yy",
+    "name":"Title Room",
+    "path":"folders/Objects/Rooms/Title Room.yy",
   },
   "parentObjectId":null,
   "persistent":false,

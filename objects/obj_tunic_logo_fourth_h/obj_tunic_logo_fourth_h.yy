@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_rhino_logo",
+  "%Name":"obj_tunic_logo_fourth_h",
   "eventList":[],
   "managed":true,
-  "name":"obj_rhino_logo",
+  "name":"obj_tunic_logo_fourth_h",
   "overriddenProperties":[],
   "parent":{
     "name":"Logos",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_rhino_logo",
-    "path":"sprites/spr_rhino_logo/spr_rhino_logo.yy",
+    "name":"spr_tunic_logo_fourth_h",
+    "path":"sprites/spr_tunic_logo_fourth_h/spr_tunic_logo_fourth_h.yy",
   },
   "spriteMaskId":null,
   "visible":true,

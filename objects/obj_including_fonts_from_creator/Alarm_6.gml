@@ -1,1 +1,1 @@
-instance_create_layer(1680, 755, "Text_And_Logos", obj_tunic_logo)
+instance_create_layer(1680, 755, "Text_And_Logos", obj_tunic_logo_fourth_h)

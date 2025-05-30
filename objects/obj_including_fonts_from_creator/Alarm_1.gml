@@ -1,1 +1,1 @@
-instance_create_layer(960, 375, "Text_And_Logos", obj_undertale_logo)
+instance_create_layer(960, 375, "Text_And_Logos", obj_undertale_logo_third_h)

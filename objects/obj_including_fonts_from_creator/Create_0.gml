@@ -1,4 +1,4 @@
-instance_create_layer(960, 160, "Text_And_Logos", obj_with_help_from)
+instance_create_layer(960, 160, "Text_And_Logos", obj_including_fonts_from)
 alarm_set(0, 255)
 alarm_set(1, 255*2)
 alarm_set(2, 255*3)

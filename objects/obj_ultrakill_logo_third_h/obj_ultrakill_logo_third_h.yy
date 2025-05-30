@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_zelda_logo",
+  "%Name":"obj_ultrakill_logo_third_h",
   "eventList":[],
   "managed":true,
-  "name":"obj_zelda_logo",
+  "name":"obj_ultrakill_logo_third_h",
   "overriddenProperties":[],
   "parent":{
     "name":"Logos",
     "path":"folders/Objects/Rooms/Intro Room/Logos.yy",
   },
   "parentObjectId":{
-    "name":"obj_logo_alpha_manager",
-    "path":"objects/obj_logo_alpha_manager/obj_logo_alpha_manager.yy",
+    "name":"obj_alpha_manager",
+    "path":"objects/obj_alpha_manager/obj_alpha_manager.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_zelda_logo",
-    "path":"sprites/spr_zelda_logo/spr_zelda_logo.yy",
+    "name":"spr_ultrakill_logo_third_h",
+    "path":"sprites/spr_ultrakill_logo_third_h/spr_ultrakill_logo_third_h.yy",
   },
   "spriteMaskId":null,
   "visible":true,

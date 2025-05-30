@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_undertale_logo",
-  "eventList":[],
+  "%Name":"obj_alpha_manager",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_undertale_logo",
+  "name":"obj_alpha_manager",
   "overriddenProperties":[],
   "parent":{
-    "name":"Logos",
-    "path":"folders/Objects/Rooms/Intro Room/Logos.yy",
+    "name":"Intro Room",
+    "path":"folders/Objects/Rooms/Intro Room.yy",
   },
-  "parentObjectId":{
-    "name":"obj_logo_alpha_manager",
-    "path":"objects/obj_logo_alpha_manager/obj_logo_alpha_manager.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_undertale_logo",
-    "path":"sprites/spr_undertale_logo/spr_undertale_logo.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

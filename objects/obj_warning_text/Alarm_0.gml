@@ -1,0 +1,1 @@
+instance_create_layer(960, 1024, "Warning", obj_continue)

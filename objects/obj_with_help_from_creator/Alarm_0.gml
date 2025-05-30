@@ -1,1 +1,1 @@
-instance_create_layer(316, 128, "Text_And_Logos", obj_rhino_logo)
+instance_create_layer(960, 604, "Text_And_Logos", obj_rhino_logo)

@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_title_operator",
+  "%Name":"obj_continue",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_title_operator",
+  "name":"obj_continue",
   "overriddenProperties":[],
   "parent":{
-    "name":"Title Room",
-    "path":"folders/Objects/Rooms/Title Room.yy",
+    "name":"Text",
+    "path":"folders/Objects/Rooms/Intro Room/Text.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_continue",
+    "path":"sprites/spr_continue/spr_continue.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

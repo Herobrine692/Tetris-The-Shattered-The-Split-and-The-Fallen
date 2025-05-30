@@ -10,8 +10,8 @@
     "path":"folders/Objects/Rooms/Intro Room/Text.yy",
   },
   "parentObjectId":{
-    "name":"obj_logo_alpha_manager",
-    "path":"objects/obj_logo_alpha_manager/obj_logo_alpha_manager.yy",
+    "name":"obj_alpha_manager",
+    "path":"objects/obj_alpha_manager/obj_alpha_manager.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
